@@ -1,4 +1,6 @@
 .env
+.idea
+.vscode
 test.py
 media_root
 db.sqlite3
