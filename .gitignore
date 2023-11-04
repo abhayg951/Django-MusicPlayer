@@ -2,5 +2,6 @@
 .idea
 .vscode
 test.py
+main.py
 media_root
 db.sqlite3
