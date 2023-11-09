@@ -1,7 +1,8 @@
+db.sqlite3
 .env
 .idea
 .vscode
-test.py
+testfile.py
 main.py
 media_root
-db.sqlite3
+myenv
